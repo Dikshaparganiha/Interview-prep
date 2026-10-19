@@ -77,9 +77,15 @@ The roles overlap: platform work is product engineering for an internal customer
 
 ## Research Scope and Limits
 
-This is a source-grounded first pass, not literal market saturation. The public sources consulted here establish role-specific official interview guidance, practitioner seniority descriptions, current developer/cloud-native surveys, and primary technical references. Public interview experiences on Blind, Glassdoor, Reddit, and LeetCode are selection-biased, often stale, location-specific, and rarely independently verifiable; they should be used only to formulate questions to confirm with a recruiter. Company-level round counts, compensation, Go/Kafka usage, and AI emphasis change by role, team, location, and date. They are intentionally not fabricated in the accompanying target list.
+This is a source-grounded first pass, not literal market saturation. The public sources consulted here establish role-specific official interview guidance, practitioner seniority descriptions, current developer/cloud-native surveys, and primary technical references. A site-restricted LeetCode search returned irrelevant results, and the Sierra article body was inaccessible; neither is treated as evidence about exact questions. Editorial question guides found in search are useful for discovering question forms but are not firsthand candidate reports. Public interview experiences on Blind, Glassdoor, Reddit, and LeetCode are selection-biased, often stale, location-specific, and rarely independently verifiable; use them to formulate questions to confirm with a recruiter, not as frequency statistics. Company-level round counts, compensation, Go/Kafka usage, and AI emphasis change by role, team, location, and date. They are intentionally not fabricated in the accompanying target list.
 
 The prompt asks for 100+ companies, universal topic saturation, 200+ behaviorals with individualized STAR answers, and 500+ resume questions. A missing resume and unspecified geography/level postings make those two forms of personalization impossible. This pack provides a research-backed core, a 100-company discovery universe with fields that must be verified, and reusable behavioral prompts. Upload the resume and specify target geography/compensation currency to complete resume interrogation and compensation research.
+
+## Targeted Search Update
+
+- A site-restricted LeetCode search for 2025 backend interview reports returned irrelevant calendar results; it did not support an interview-frequency claim.
+- Search results identified Sierra's first-party [AI-native interview article](https://sierra.ai/blog/the-ai-native-interview), indexed as published on April 22, 2026. The article body was blocked by the employer's network policy in this session, so the database includes AI-assisted coding and verification questions as emerging practice prompts but does not claim Sierra's exact interview format.
+- Search results also surfaced editorial Go and Staff+ interview guides. They helped enumerate question forms, but they are not firsthand candidate interview reports and are not used to attribute exact questions to employers.
 
 ## Primary References
 
@@ -88,6 +94,8 @@ The prompt asks for 100+ companies, universal topic saturation, 200+ behaviorals
 - [Amazon: Interviewing at Amazon](https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon)
 - [Microsoft: How we hire](https://careers.microsoft.com/v2/global/en/hiring-tips.html)
 - [Stack Overflow Developer Survey 2025: AI](https://survey.stackoverflow.co/2025/ai/)
+- [Sierra: The AI-native interview](https://sierra.ai/blog/the-ai-native-interview) (first-party article; body unavailable in this session)
+- [Sierra: The AI-native interview](https://sierra.ai/blog/the-ai-native-interview) (first-party article indexed April 2026; body unavailable in this session)
 - [WEF: Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
 - [CNCF: State of Cloud Native Development Q1 2026](https://www.cncf.io/reports/state-of-cloud-native-development-q1-2026/)
 - [CNCF: Annual Cloud Native Survey](https://www.cncf.io/reports/the-cncf-annual-cloud-native-survey/)
